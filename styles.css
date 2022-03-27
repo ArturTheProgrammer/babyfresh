@@ -1,0 +1,107 @@
+body{
+	text-align: center;
+}
+.container{ 
+	width: auto;
+	display: flex;
+	text-align: center;
+}
+.logo{
+	text-align: center;
+}
+
+.small-logo{
+	cursor: pointer;
+    margin: 0 auto;
+    display: inline-block;
+    vertical-align: middle;
+    line-height: 40px;
+    border-radius: 3px;
+	text-align: center;
+	text-align: bottom;
+	
+}
+.list{
+	color: white;
+}
+.nav-link{
+	color: grey;
+}
+.How-it-works{
+	text-align: center;
+}
+.sub{
+	color: grey;
+}
+.How-col-1{
+		margin-bottom: 20px;
+		/*min-width: 50px;*/
+		text-align: center;
+		/*border: 1px solid white;*/
+		width: 23%;
+		margin-left: 2%;
+}
+
+.container-2{
+	width: auto;
+	display: flex;
+	text-align: center;
+	margin-top: 3%; 
+}
+.paragraph{
+	width: 80%;
+	text-align: center;
+	margin-right: 30%;
+	margin-left: 10%;
+}
+.left{
+	float: left;
+}
+.right{
+	float: left;
+}
+/*@media screen{
+		display:  block;
+}*/
+.About{
+    background-color: rgb(233, 233, 233);
+    text-align: center;
+    color:  #678;
+    font-size: 108%;
+}
+.Headabout{
+    color: black;
+}
+.Approach{
+	text-align: center;
+}
+.Head{
+	font-size: 105%;
+	text-align: center;
+	color: rgb(100, 117, 133);
+}
+.left{
+	text-align: left;
+	margin-left: 20%;
+}
+.right{
+	text-align: left;
+	margin-left: 5%;
+	width: 45%;
+}
+.green{
+	color: rgb(31, 155, 31);
+}
+.p{
+	text-align: left;
+	margin-left: 20px;
+	padding: 5px;
+	}
+.LR{
+	margin: 20px 0px;
+}
+.left-n{
+	text-align: right;
+	margin-right: 5%;
+	width: 50%%;
+}
